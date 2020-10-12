@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ListDemo</string>
+    <array name="main">
+        <item >chapter 1</item>
+        <item >chapter 2</item>
+        <item >video 3_0</item>
+        <item >document 4_0</item>
+    </array>
+
+    <array name="sub_chapter_1">
+        <item >video 1_1</item>
+        <item >document 1_1</item>
+        <item >Audio 1_1</item>
+    </array>
+
+
+    <array name="sub_chapter_2">
+        <item >video 2_1</item>
+        <item >document 2_1</item>
+        <item >Audio 2_1</item>
+        <item >Video 2_2</item>
+    </array>
+
+</resources>
